@@ -8,6 +8,7 @@ def prime?(n)
     return false
     end
   end
+  end
   return true
 end
 

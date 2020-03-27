@@ -3,7 +3,7 @@ def prime?(n)
   if n <= 1 
     return false
   elsif n != 2 && array.each do |i|  
-     return false n % i == 0
+     return false if n % i == 0
     end
   else 
     return true 

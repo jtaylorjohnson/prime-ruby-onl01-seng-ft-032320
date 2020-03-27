@@ -13,13 +13,3 @@ def prime?(n)
 end
 
 
-# def prime?(num)
-#   if n <= n
-#     return false
-#   elsif (2..(num - 1)).each do |n|
-#     return false if num % n == 0
-#   end
-#   else
-#     return true
-#   end
-# end
